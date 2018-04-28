@@ -1,0 +1,27 @@
+{
+  "name": "@kwsites/grunt-apostrophe",
+  "version": "0.0.0",
+  "description": "Build and deployment tools for an apostrophe cms app.",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kwsites/grunt-apostrophe.git"
+  },
+  "keywords": [
+    "gruntplugin",
+    "bump",
+    "release",
+    "npm",
+    "git"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.6.0",
+    "shelljs": "^0.8.1"
+  },
+  "devDependencies": {},
+  "peerDependencies": {}
+}
